@@ -1,0 +1,54 @@
+.h1{
+    border:solid 3px red;
+    margin:auto;
+    padding:auto;
+    width:400px;
+    
+}
+
+.h1 {
+    color:red;
+    text-align:center;
+}
+
+.h1 , .h2 , .h3 , .h4 , .h5 , .h6 , .h7 , .h8{
+   text-transform:uppercase;
+}
+
+.h1 , .h2 , .h3 , .h4 , .h5 , .h6 , .h7 , .h8{
+    word-spacing: 5px;
+
+}
+.img1{
+    border-radius: 50px;
+   
+    
+}
+.img2{
+  border-radius: 40px;
+  margin:0px;
+  width:280;
+  padding:15px
+
+}
+.img3{
+    border-radius: 70px;
+    margin: 0px 0px 0px 60px;
+    width:295px;
+
+}
+.one , .two , .thr , .for , .fiv{
+    width:100;
+    height:100;
+    border-radius: 50%;
+}
+.b1 .h9{
+color:white;
+width:300px;
+height:35px;
+text-align:center;
+background:red;
+text-decoration: underline;
+border-radius: 30px;
+
+}
